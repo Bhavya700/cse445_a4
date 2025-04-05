@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel _Rating="4.2">
+    <Name>Westin Tempe</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address _NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.0">
+    <Name>Hotel California</Name>
+    <Phone>123-456-7890</Phone>
+    <Address _NearestAirport="LAX">
+      <Number>123</Number>
+      <Street>Main St</Street>
+      <City>Los Angeles</City>
+      <State>CA</State>
+      <Zip>90001</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="3.8">
+    <Name>Grand Budapest</Name>
+    <Phone>111-222-3333</Phone>
+    <Address>
+      <Number>55</Number>
+      <Street>Republican Rd</Street>
+      <City>Budapest</City>
+      <State>NA</State>
+      <Zip>1000</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.5">
+    <Name>Ritz Carlton</Name>
+    <Phone>222-333-4444</Phone>
+    <Phone>333-444-5555</Phone>
+    <Address _NearestAirport="JFK">
+      <Number>789</Number>
+      <Street>Park Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10022</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott Downtown</Name>
+    <Phone>444-555-6666</Phone>
+    <Address>
+      <Number>200</Number>
+      <Street>Market Street</Street>
+      <City>San Francisco</City>
+      <State>CA</State>
+      <Zip>94103</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="3.9">
+    <Name>Holiday Inn Express</Name>
+    <Phone>555-666-7777</Phone>
+    <Address _NearestAirport="ORD">
+      <Number>400</Number>
+      <Street>Lake Shore Dr</Street>
+      <City>Chicago</City>
+      <State>IL</State>
+      <Zip>60601</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.7">
+    <Name>Four Seasons</Name>
+    <Phone>777-888-9999</Phone>
+    <Address _NearestAirport="SEA">
+      <Number>50</Number>
+      <Street>1st Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98101</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.3">
+    <Name>Hilton Garden Inn</Name>
+    <Phone>888-999-0000</Phone>
+    <Phone>999-000-1111</Phone>
+    <Address>
+      <Number>345</Number>
+      <Street>Broadway</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10007</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="4.1">
+    <Name>Hyatt Regency</Name>
+    <Phone>101-202-3030</Phone>
+    <Address _NearestAirport="ATL">
+      <Number>77</Number>
+      <Street>Peachtree St</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+  </Hotel>
+  <Hotel _Rating="3.7">
+    <Name>Comfort Inn</Name>
+    <Phone>202-303-4040</Phone>
+    <Address>
+      <Number>88</Number>
+      <Street>Ocean Blvd</Street>
+      <City>Miami</City>
+      <State>FL</State>
+      <Zip>33101</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
