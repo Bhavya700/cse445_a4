@@ -1,10 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotels>
-  <Hotel _Rating="4.2">
-    <Name>Westin Tempe</Name>
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <Hotel Rating="4.5">
+    <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address _NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -12,105 +13,103 @@
       <Zip>85281</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.0">
-    <Name>Hotel California</Name>
-    <Phone>123-456-7890</Phone>
-    <Address _NearestAirport="LAX">
-      <Number>123</Number>
+  <Hotel Rating="4.1">
+    <Name>Hotel2</Name>
+    <Phone>000-000-002</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>Scottsdale Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85002</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.8">
+    <Name>Hotel3</Name>
+    <Phone>000-000-003</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>85</Number>
+      <Street>Big Blvd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85003</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="4.7">
+    <Name>Hotel4</Name>
+    <Phone>000-000-004</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>7</Number>
       <Street>Main St</Street>
-      <City>Los Angeles</City>
-      <State>CA</State>
-      <Zip>90001</Zip>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.8">
-    <Name>Grand Budapest</Name>
-    <Phone>111-222-3333</Phone>
-    <Address>
-      <Number>55</Number>
-      <Street>Republican Rd</Street>
-      <City>Budapest</City>
-      <State>NA</State>
-      <Zip>1000</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="4.5">
-    <Name>Ritz Carlton</Name>
-    <Phone>222-333-4444</Phone>
-    <Phone>333-444-5555</Phone>
-    <Address _NearestAirport="JFK">
-      <Number>789</Number>
-      <Street>Park Ave</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10022</Zip>
-    </Address>
-  </Hotel>
-  <Hotel>
-    <Name>Marriott Downtown</Name>
-    <Phone>444-555-6666</Phone>
-    <Address>
-      <Number>200</Number>
-      <Street>Market Street</Street>
-      <City>San Francisco</City>
-      <State>CA</State>
-      <Zip>94103</Zip>
-    </Address>
-  </Hotel>
-  <Hotel _Rating="3.9">
-    <Name>Holiday Inn Express</Name>
-    <Phone>555-666-7777</Phone>
-    <Address _NearestAirport="ORD">
+  <Hotel Rating="3.5">
+    <Name>Hotel5</Name>
+    <Phone>000-000-005</Phone>
+    <Address NearstAirport="Sky Harbor">
       <Number>400</Number>
-      <Street>Lake Shore Dr</Street>
-      <City>Chicago</City>
-      <State>IL</State>
-      <Zip>60601</Zip>
+      <Street>Rural Ave</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85002</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.7">
-    <Name>Four Seasons</Name>
-    <Phone>777-888-9999</Phone>
-    <Address _NearestAirport="SEA">
-      <Number>50</Number>
-      <Street>1st Ave</Street>
-      <City>Seattle</City>
-      <State>WA</State>
-      <Zip>98101</Zip>
+  <Hotel Rating="4.0">
+    <Name>Hotel6</Name>
+    <Phone>000-000-006</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>33</Number>
+      <Street>Apache Junk</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85006</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.3">
-    <Name>Hilton Garden Inn</Name>
-    <Phone>888-999-0000</Phone>
-    <Phone>999-000-1111</Phone>
-    <Address>
-      <Number>345</Number>
-      <Street>Broadway</Street>
-      <City>New York</City>
-      <State>NY</State>
-      <Zip>10007</Zip>
+  <Hotel Rating="4.6">
+    <Name>Hotel7</Name>
+    <Phone>000-000-007</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>555</Number>
+      <Street>Mill Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85007</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="4.1">
-    <Name>Hyatt Regency</Name>
-    <Phone>101-202-3030</Phone>
-    <Address _NearestAirport="ATL">
-      <Number>77</Number>
-      <Street>Peachtree St</Street>
-      <City>Atlanta</City>
-      <State>GA</State>
-      <Zip>30303</Zip>
+  <Hotel Rating="3.2">
+    <Name>Hotel8</Name>
+    <Phone>000-000-008</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>200</Number>
+      <Street>University Dr</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85008</Zip>
     </Address>
   </Hotel>
-  <Hotel _Rating="3.7">
-    <Name>Comfort Inn</Name>
-    <Phone>202-303-4040</Phone>
-    <Address>
-      <Number>88</Number>
-      <Street>Ocean Blvd</Street>
-      <City>Miami</City>
-      <State>FL</State>
-      <Zip>33101</Zip>
+  <Hotel Rating="4.8">
+    <Name>Hotel9</Name>
+    <Phone>000-000-009</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>99</Number>
+      <Street>Pickle Street</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85009</Zip>
+    </Address>
+  </Hotel>
+  <Hotel Rating="3.9">
+    <Name>Hotel10</Name>
+    <Phone>000-000-0010</Phone>
+    <Address NearstAirport="Sky Harbor">
+      <Number>321</Number>
+      <Street>Sunset sunrise</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85010</Zip>
     </Address>
   </Hotel>
 </Hotels>
